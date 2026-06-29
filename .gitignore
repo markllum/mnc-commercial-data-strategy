@@ -1,0 +1,13 @@
+# Python environment caches
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Data and Secret Files
+*.csv
+*.xlsx
+*.env
+.secret_keys
